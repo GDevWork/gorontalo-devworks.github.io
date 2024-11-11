@@ -1,4 +1,4 @@
 {
-  "main": "https://c07b-2001-448a-7069-2afb-8581-48d4-7891-9a8b.ngrok-free.app/",
-  "ocr": "https://7044-2001-448a-7069-2afb-578f-d10f-d19a-d650.ngrok-free.app"
+  "main": "https://c07b-2001-448a-7069-2afb-8581-48d4-7891-9a8b.ngrok-free.app/api",
+  "ocr": "https://7044-2001-448a-7069-2afb-578f-d10f-d19a-d650.ngrok-free.app/api/ocr"
 }
