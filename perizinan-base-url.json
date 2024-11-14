@@ -1,4 +1,4 @@
 {
-  "main": "http://localhost:8000/api",
+  "main": "http://192.168.1.8:8000/api",
   "ocr": "https://ca89-36-75-239-19.ngrok-free.app/api/ocr"
 }
