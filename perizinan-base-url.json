@@ -1,4 +1,4 @@
 {
-  "main": "http://172.21.0.95:8000/api",
+  "main": "https://3a1f-36-85-217-11.ngrok-free.app/api",
   "ocr": "https://29ce-36-85-218-51.ngrok-free.app/api/ocr"
 }
