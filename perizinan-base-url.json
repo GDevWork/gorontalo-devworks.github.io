@@ -1,4 +1,4 @@
 {
-  "main": "http://localhost:8000/api",
-  "ocr": "7676-2001-448a-706e-2ec7-d069-3eee-5874-2bad.ngrok-free.app/api/ocr"
+  "main": "https://7676-2001-448a-706e-2ec7-d069-3eee-5874-2bad.ngrok-free.app/api",
+  "ocr": "https://7d02-36-85-219-157.ngrok-free.app/api/ocr"
 }
